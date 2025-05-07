@@ -1,0 +1,2 @@
+# factGenerator
+fact generator 
