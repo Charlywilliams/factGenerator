@@ -1,6 +1,5 @@
-div {
+.home-parent-container {
   background-color: bisque;
-  min-height: 100vh;
   padding: 2rem;
   display: flex;
   flex-direction: column;
@@ -38,4 +37,12 @@ div {
 .gallery-button {
   width: 10rem;
   background-color: tan !important;
+}
+
+.nav-button-group {
+  display: flex;
+  justify-content: center;
+  gap: 8rem;
+  margin-top: 20rem;
+  background-color: white !important;
 }
